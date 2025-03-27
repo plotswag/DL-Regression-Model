@@ -142,7 +142,7 @@ Include screenshot of the generated data
 
 
 ### New Sample Data Prediction
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/bea4c44d-d88d-488a-b859-7d7a2352fbb5)
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
